@@ -81,7 +81,7 @@
 
 ### 1、clone到本地
 
-`git clone https://github.com/baozouai/react-mobile-app.git`
+`https://github.com/wang5512-cmd/React-shop-app.git`
 
 ### 2、打开终端，`cd react-mobile-app`,切换到项目根目录，在项目根目录运行以下命令
 
